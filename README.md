@@ -7,4 +7,4 @@ Advanced course
 2. Binary search trees, Traversals, Recursion
 3. Sorting algorithms
 4. Recursion & DP
-5. Grapg algorithms
+5. Graph algorithms
